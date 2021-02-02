@@ -1,6 +1,11 @@
-# flutter-doc
-
-flutter 中文文档
+---
+home: true
+heroImage: /images/logo.png
+title: a
+actionText: Get Started →
+actionLink: /install/index
+footer: MIT Licensed | Copyright © 2021-present istanhua
+---
 
 ## Getting Started
 
