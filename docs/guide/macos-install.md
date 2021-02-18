@@ -1,3 +1,5 @@
+# macOS 安装和环境配置
+
 # 系统要求
 
 要安装并运行Flutter，你的开发环境至少需要满足以下要求：
@@ -180,8 +182,6 @@ Flutter 要求安装并设置Android Studio：
    以上步骤的细节，详见 [AVDs 管理](https://developer.android.com/studio/run/managing-avds.html)。
 7. 在安卓虚拟设备管理中，点击工具栏里的 Run。虚拟机开始运行并显示你所选择的操作系统版本的默认图像；
 8. 通过执行 flutter run 命令开始运行你的App，被链接的设备名称叫做 **Android SDK built for &lt;platform&gt; ，**其中platform是指集成电路，例如 x86。
-
-## [下一章节：配置编辑器](/pei-zhi-bian-ji-qi.md)
 
 
 

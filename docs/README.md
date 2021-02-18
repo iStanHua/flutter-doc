@@ -3,7 +3,7 @@ home: true
 heroImage: /images/logo.png
 title: a
 actionText: Get Started →
-actionLink: /install/index
+actionLink: /guide/
 footer: MIT Licensed | Copyright © 2021-present istanhua
 ---
 
